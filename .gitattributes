@@ -2,3 +2,8 @@
 /Build/Take'em[[:space:]]down[[:space:]]WebGL[[:space:]]build.data.gz filter=lfs diff=lfs merge=lfs -text
 Build/Take'em[[:space:]]down[[:space:]]WebGL[[:space:]]build.data.gz filter=lfs diff=lfs merge=lfs -text
 Build/Take'em[[:space:]]down[[:space:]]WebGL[[:space:]]build.data.gz filter=lfs diff=lfs merge=lfs -text
+Build/Take'em[[:space:]]down[[:space:]]WebGL[[:space:]]build.data filter=lfs diff=lfs merge=lfs -text
+Build/ filter=lfs diff=lfs merge=lfs -text
+Build filter=lfs diff=lfs merge=lfs -text
+.Build filter=lfs diff=lfs merge=lfs -text
+.Build/ filter=lfs diff=lfs merge=lfs -text
